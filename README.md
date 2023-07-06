@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Edgar Soto
+#### Computer Systems Engineering student
+![Computer Systems Engineering student](https://imgur.com/gallery/7yDAk5G)
 
-<!--
-**EdgarSotoAvalos/EdgarSotoAvalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate learner in the fields of cybersecurity and machine learning, with a strong background in networking and Linux system administration. My goal is to leverage my knowledge and skills to enhance digital security and apply machine learning techniques to solve complex challenges.
 
-Here are some ideas to get you started:
+Skills: Python / Pandas / Keras / Bash / VHDL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
